@@ -16,8 +16,8 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,django,mysql,postgres,git" />
 </p>
 
-<p align="left">
-  🚀 Motivated CSE student who loves turning ideas into real projects. Always curious, always learning, and always up for a new challenge.
+<p align="center">
+  |<br>|<br>↓
 </p>
 
 <p align="center">
