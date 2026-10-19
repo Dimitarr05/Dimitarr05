@@ -20,6 +20,14 @@
   |<br>|<br>↓
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://drusinov.dev"><img src="https://img.shields.io/badge/drusinov.dev-coming%20soon-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p> -->
+
+<p align="center">
+  <a href="https://drusinov.dev">
+    <img src="./website-icon.svg" width="48" height="48" />
+  </a>
+  <br>
+  <b>drusinov.dev</b> <i>(coming soon)</i>
 </p>
